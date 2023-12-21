@@ -1,5 +1,3 @@
-import kiambu_suitability from "./kiambu_suit.js";
-
 import suitability from "./suitability_values.js";
 
 var coord = [-1.183, 37.117];
